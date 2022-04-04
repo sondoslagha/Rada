@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "25242185518",
+    "project_id": "rada-b4953",
+    "storage_bucket": "rada-b4953.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25242185518:android:2c09f434b2fe01e55654bf",
+        "android_client_info": {
+          "package_name": "com.example.radaapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25242185518-chdvvbfpl16037ja49sh286ivti0je8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.radaapplication",
+            "certificate_hash": "9b7dd6ca7ee56107422ef231145cac02119c1349"
+          }
+        },
+        {
+          "client_id": "25242185518-iokhmcfeiki94u24e7chvpuphqp9qndu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3qNHXlo6xZV_fdRDo1cTGgvIsDhgHY5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25242185518-iokhmcfeiki94u24e7chvpuphqp9qndu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

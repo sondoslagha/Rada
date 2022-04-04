@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Rada</string>
+
+    <string name="title_activity_home">HomeActivity</string>
+
+
+    <string name="login_email_hint">E-mail</string>
+    <string name="login_password_hint">Password</string>
+    <string name="intro" translatable="false">Already \nhave an \nAccount?</string>
+    <string name="loginppl" translatable="false">loginppl</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="new_user_register_now">New user? Register Now</string>
+    <string name="use_other_methods">Use other Methods</string>
+    <string name="name">Name</string>
+    <string name="intro2" translatable="false">Here’s\nyour first\nstep with \nus!</string>
+    <string name="registerppl" translatable="false">registerppl</string>
+    <string name="phone_number">Phone number</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+
+    <string name="verify_mobile">Insert Code </string>
+    <string name="verify_btn_txt">Verify</string>
+    <string name="back_btn_txt">Back</string>
+
+
+    <!--    for Dialog   -->
+    <string name="title">Confirm Code</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="msg" translatable="false">We will sent the varification code within a sms Message</string>
+    <string name="varificatin_code"> Enter varificatin code here </string>
+    <string name="add_marker_on_map">Add marker on map</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Map</string>
+    <string name="menu_gallery">Setting</string>
+    <string name="menu_slideshow">Log Out</string>
+    <string name="title_activity_create_maps">Map</string>
+    <string name="save">Done</string>
+    <string name="done_dialog">Done</string>
+    <string name="enterCode_dialog">Enter Code</string>
+    <string name="action_logout">Sign out</string>
+
+    <string name="warning">Warning</string>
+</resources>
